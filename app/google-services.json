@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "318030940937",
+    "firebase_url": "https://tailor-at-door.firebaseio.com",
+    "project_id": "tailor-at-door",
+    "storage_bucket": "tailor-at-door.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318030940937:android:fcc26cac55cd5225",
+        "android_client_info": {
+          "package_name": "com.example.tailorcom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318030940937-sc61qmmcvtn8cssqt5i57nrdg7a6g7ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMXgQad9EEXkWAZR5WQc9Tpv-4Hm7LtdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318030940937-sc61qmmcvtn8cssqt5i57nrdg7a6g7ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
